@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anupreet</h1>
 <h3 align="center">A react developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 All of my projects are available at [https://anupreet-portfolio.netlify.app/](https://anupreet-portfolio.netlify.app/)
 
