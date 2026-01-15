@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anupreet</h1>
-<h3 align="center">A react developer</h3>
+<h3 align="center">A MERN developer</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://anupreet-portfolio.netlify.app/](https://anupreet-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://anupreet-portfolio.netlify.app/](https://anupreet-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, react native, nodeJS, mongoDB**
+- 💬 Ask me about **React, React Native, NodeJS, MongoDB, SQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/anupreet-srivastava-973013223/**
-
-- ⚡ Fun fact **I love CSS😶‍🌫️**
+- 📫 How to reach me **https://www.linkedin.com/in/anupreet1213/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anupreet-srivastava-973013223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupreet-srivastava-973013223/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anupreet1213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anupreet1213/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
